@@ -7,6 +7,12 @@ body{
 }
 
 
+.nav-link, .nav-link:hover {
+  color: black; 
+}
+
+
+
 :root{
    --gradient: linear-gradient(
     to right, #d86285, #ead238  
@@ -19,7 +25,8 @@ body{
 .page-login-left{
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    height: 36rem;
+    height: 500px;
+
     background-color: #ebc8b2;   
 }
 .container {
