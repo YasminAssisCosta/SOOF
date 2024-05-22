@@ -1,0 +1,67 @@
+.great-vibes-regular,
+#logo {
+    font-family: "Great Vibes", cursive;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.sedan-regular,
+h1, li {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.btn {
+    width: 90%;
+}
+
+.nav-link,
+.nav-link:hover {
+    color: black;
+}
+
+
+
+#naveg {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    max-width: 99%;
+    margin-left: 7px;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+}
+
+#bt_cadI, #bt_cadI:hover, #bt_edt, #bt_edt:hover{
+    width: 80%;
+    height: 40px;
+    border-radius: 1em;
+    background-color: #d8628591;
+    border-color: #d8628584;
+    color: #ffffff;
+    text-align: center;
+}
+
+#form-add-item{
+ font-size: 17px;
+}
+
+.carousel-item img {
+  
+    height: 540px;
+    object-fit: cover;
+    
+  }

@@ -1,0 +1,170 @@
+.container {
+  text-align: center; 
+}
+
+.carousel-item img {
+  
+  height: 540px;
+  object-fit: cover;
+  
+}
+
+#imageC{
+  margin-top: -15px;
+}
+
+#imgProdutoE {
+  height: 500px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+hr,
+.nav-link,
+.nav-link:hover {
+  color: black;
+}
+
+.card {
+  max-height: 500px;
+  overflow: hidden;
+}
+
+.card-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#filtro {
+  margin-top: 106px;
+}
+
+input[type=number] {
+  height: 40px;
+  width: 8rem;
+  padding: 0.5em;
+  border: 0.2em solid #d8628591;
+  border-radius: 1em;
+  text-align: center;
+  color: #030303;
+  appearance: textfield;
+  margin: 0;
+}
+
+.btn-adicionar-carrinho,
+.btn-adicionar-carrinho:hover,
+#edt_produto {
+  height: 40px;
+  border-radius: 1em;
+  background-color: #d8628591;
+  border-color: #d8628584;
+}
+
+#bt_produto:hover,
+#bt_filtro:hover {
+  width: 90%;
+  height: 40px;
+  border-radius: 1em;
+  background-color: #d8628591;
+  border-color: #d8628584;
+  color: #ffffff;
+}
+
+#bt_filtro {
+  width: 90%;
+  height: 40px;
+  border-radius: 1em;
+  background-color: #d8628591;
+  border-color: #d8628584;
+  color: #ffffff;
+}
+
+#btn_edt,
+#btn_ed:hover {
+  width: 60%;
+  height: 50px;
+  border-radius: 1em;
+  background-color: #d8628591;
+  border-color: #d8628584;
+  color: #ffffff;
+}
+
+#bt_produto,
+#bt_filtro,
+#bt_comprar {
+  width: 90%;
+  height: 40px;
+  border-radius: 1em;
+  background-color: #d8628591;
+  border-color: #d8628584;
+  color: #ffffff;
+}
+
+#bt_comprar,
+#bt_comprar:hover {
+  width: 40%;
+  height: 40px;
+  border-radius: 1em;
+  background-color: #d8628563;
+  border-color: #d8628554;
+  color: #ffffff;
+}
+
+#bottom-menu {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 95%;
+  background-color: #d8628591;
+  padding: 10px 0;
+  color: #fff;
+  z-index: 1000;
+  border-radius: 1rem;
+}
+
+.checkbox-label {
+  text-align: left; 
+  display: inline-block; 
+  width: calc(100% - 1.25rem); 
+  margin-left: 1.25rem; 
+}
+
+#bt_excluir, 
+#bt_editar {
+    width: 48%;
+    height: 40px;
+    border-radius: 1em;
+    background-color: #d8628591;
+    border-color: #d8628584;
+    color: #ffffff;
+    text-align: center;
+}
+
+#bt_excluir:hover,
+#bt_editar:hover {
+    background-color: #b94d75;
+    border-color: #b94d75;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black;
+    opacity: 30%;
+    border-radius: 10%;
+}
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+    background-color: black;
+    opacity: 100%;
+    border-radius: 10%;
+}
+
+
+
+
+
+
+
